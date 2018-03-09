@@ -1,6 +1,6 @@
 # Impact and Analysis of Weather Events
 
-## 1. Introduction of StromEvent Data set
+## 1. Introduction of StormEvent Data set
 
 Description of Data Set - Storm Event
 
